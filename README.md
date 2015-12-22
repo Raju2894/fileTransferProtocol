@@ -3,7 +3,7 @@ Application Level file sharing protocol with support for upload/download and ind
 ------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------
-Compile using : cc -o ftpn filename -lssl -lcrypto
+Compile using : cc -o ftp filename -lssl -lcrypto
 ---------------------------------------------------------------------
 Run using
 ./ftp <client portno> <ip of server> <server portno> <protocol>
